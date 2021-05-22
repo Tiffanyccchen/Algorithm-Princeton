@@ -1,0 +1,16 @@
+*/.idea
+*/.lift
+*/.vscode
+*.iml
+*.png
+*.txt
+*.class
+!*readme.txt
+!*input8.txt
+!*permutation8.txt
+!*baby-names.txt
+!*puzzle08.txt
+!*input8.txt
+!*synsets.txt
+!*hypernyms.txt
+CREDITS
