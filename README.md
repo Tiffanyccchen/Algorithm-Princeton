@@ -1,6 +1,6 @@
 # Algorithms and Data Structures-Princeton
 Assignments -[Algorithms and Data Structures course of Princeton University][1], 
-created by PrincetonUniversity, taught by: _Kevin Wayne_, Senior Lecturer and _Robert Sedgewick_,Professor.
+created by Princeton University, taught by: _Kevin Wayne_, Senior Lecturer and _Robert Sedgewick_,Professor.
 
 This course covers the essential information that every serious programmer needs
 to know about algorithms and data structures, with emphasis on applications and
